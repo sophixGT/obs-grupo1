@@ -2,7 +2,8 @@
 
 Actividades asignadas al grupo 1 del máster devops and cloud.
 
-El formato del documento es el siguiente:
+-- Actividad #3--
+Para esta actividad el formato del documento es el siguiente:
 
     - Fuente: Arial
     - Tamaño fuente: 11
