@@ -1,4 +1,4 @@
-# obs-grupo1
+# OBS - GRUPO 1
 
 Actividades asignadas al grupo 1 del máster devops and cloud.
 
